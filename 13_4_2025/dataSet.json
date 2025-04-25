@@ -1,0 +1,542 @@
+[
+    {
+        "fileName": "20250412_131110.jpg",
+        "resolution": [3024, 4032],
+        "classNames": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+            {
+                "class": 0,
+                "shape": "rectangle",
+                "points": {
+                    "x": [638, 761],
+                    "y": [329, 423]
+                }
+            },
+            {
+                "class": 0,
+                "shape": "rectangle",
+                "points": {
+                    "x": [406, 500],
+                    "y": [329, 417]
+                }
+            },
+            {
+                "class": 0,
+                "shape": "rectangle",
+                "points": {
+                    "x": [303, 403],
+                    "y": [768, 869]
+                }
+            },
+            {
+                "class": 0,
+                "shape": "rectangle",
+                "points": {
+                    "x": [617, 725],
+                    "y": [770, 881]
+                }
+            },
+            {
+                "class": 0,
+                "shape": "rectangle",
+                "points": {
+                    "x": [151, 242],
+                    "y": [309, 415]
+                }
+            }
+        ]
+    },
+    
+    {
+        "fileName": "20250412_130812.jpg",
+        "resolution": [3024, 4032],
+        "classes": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [384, 546],
+                        "y": [188, 353]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [455, 699],
+                        "y": [837, 1074]
+                    }
+                }
+        ]
+    },
+    {
+        "fileName": "20250412_130800.jpg",
+        "resolution": [3024, 4032],
+        "classes": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [386, 438],
+                        "y": [144, 203]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [377, 432],
+                        "y": [288, 353]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [423, 478],
+                        "y": [438, 498]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [635, 694],
+                        "y": [411, 464]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [611, 664],
+                        "y": [270, 337]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [607, 670],
+                        "y": [98, 148]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [629, 676],
+                        "y": [525, 578]
+                    }
+                }
+        ]
+    },
+    {
+        "fileName": "20250412_130742.jpg",
+        "resolution": [3024, 4032],
+        "classes": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [616, 703],
+                        "y": [7, 65]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [599, 687],
+                        "y": [179, 274]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [599, 684],
+                        "y": [430, 525]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [565, 678],
+                        "y": [679, 791]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [590, 664],
+                        "y": [980, 1077]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [196, 323],
+                        "y": [905, 1003]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [251, 326],
+                        "y": [641, 730]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [221, 325],
+                        "y": [395, 473]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [261, 340],
+                        "y": [166, 231]
+                    }
+                }
+        ]
+    },
+    {
+        "fileName": "20250412_130706.jpg",
+        "resolution": [3024, 4032],
+        "classes": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [721, 828],
+                        "y": [285, 414]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [776, 894],
+                        "y": [719, 862]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [56, 177],
+                        "y": [1123, 1241]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [162, 261],
+                        "y": [617, 734]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [191, 289],
+                        "y": [237, 365]
+                    }
+                }
+        ]
+    },
+    {
+        "fileName": "20250412_130635.jpg",
+        "resolution": [3024, 4032],
+        "classes": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [443, 498],
+                        "y": [214, 276]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [435, 497],
+                        "y": [372, 445]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [406, 473],
+                        "y": [537, 592]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [424, 491],
+                        "y": [745, 805]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [399, 458],
+                        "y": [1020, 1092]
+                    }
+                }
+        ]
+    },
+    {
+        "fileName": "20250412_130654.jpg",
+        "resolution": [3024, 4032],
+        "classes": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [433, 476],
+                        "y": [12, 65]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [392, 454],
+                        "y": [98, 148]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [359, 418],
+                        "y": [231, 288]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [340, 406],
+                        "y": [354, 402]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [306, 354],
+                        "y": [503, 571]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [276, 343],
+                        "y": [679, 756]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [218, 267],
+                        "y": [946, 1009]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [571, 667],
+                        "y": [756, 828]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [570, 647],
+                        "y": [537, 624]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [607, 669],
+                        "y": [369, 435]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [616, 678],
+                        "y": [243, 303]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [632, 693],
+                        "y": [153, 221]
+                    }
+                }
+        ]
+    },
+    {
+        "fileName": "20250412_130719.jpg",
+        "resolution": [3024, 4032],
+        "classes": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [265, 346],
+                        "y": [148, 224]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [276, 347],
+                        "y": [390, 485]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [246, 381],
+                        "y": [696, 788]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [211, 335],
+                        "y": [1000, 1080]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [804, 881],
+                        "y": [1053, 1157]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [707, 785],
+                        "y": [678, 779]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [635, 722],
+                        "y": [439, 527]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [624, 705],
+                        "y": [203, 292]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [583, 662],
+                        "y": [1, 64]
+                    }
+                }
+        ]
+    },
+    {
+        "fileName": "20250412_130701.jpg",
+        "resolution": [3024, 4032],
+        "classes": {
+            "0": "savera_tomate"
+        },
+        "regions": [
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [353, 458],
+                        "y": [988, 1072]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [417, 510],
+                        "y": [469, 574]
+                    }
+                },
+                {
+                    "class": 0,
+                    "shape": "rectangle",
+                    "points": {
+                        "x": [435, 509],
+                        "y": [119, 215]
+                    }
+                }
+        ]
+    }
+    ]
+    
+   

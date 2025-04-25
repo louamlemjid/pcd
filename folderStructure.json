@@ -1,0 +1,30 @@
+{
+    "dataset_name": "savera_tomato",
+    "description": "Image dataset for SAVERA tomato classification",
+    "structure": {
+        "day_month_year": {
+            "images": "Folder containing image files",
+            "dataSet.json": {
+                "fileStructure":{
+                    "fileName": "fileName.jpg",
+                    "resolution": [0, 0],
+                    "classNames": {
+                        "0": "savera_tomate"
+                    },
+                    "regions": [
+                        {
+                            "class": "0",
+                            "shape": "rectangle",
+                            "points": {
+                                "x": ["left", "right"],
+                                "y": ["top", "bottom"]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "version": "1.0",
+    "created": "2025-04-25"
+}
